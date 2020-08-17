@@ -1,6 +1,5 @@
 - [一级标题](#一级标题)
   - [二级标题](#二级标题)
-  - [>引用的内容](#blockquote引用的内容blockquote)
 - [标题](#标题)
 
 # 一级标题
@@ -29,11 +28,9 @@
 def say_hi(name):
     print(f'hello, {name})
 ```
-<<<<<<< HEAD
-
 <kbd>Ctrl</kbd> 
 
 > 引用内容  
 =======
+
 # 标题
->>>>>>> 049a769283fb8072c7b90d025dd4f70f71b1abb1
